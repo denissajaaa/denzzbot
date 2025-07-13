@@ -1,0 +1,17 @@
+{
+  "name": "denzzbot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp sederhana menggunakan @whiskeysockets/baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["bot", "whatsapp", "baileys", "denzzbot"],
+  "author": "denissajaaa",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "@adiwajshing/keyed-db": "^1.0.2",
+    "@hapi/boom": "^10.0.0"
+  }
+}
